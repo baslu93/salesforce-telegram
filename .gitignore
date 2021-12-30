@@ -1,0 +1,4 @@
+script.sh
+
+# Dependency directories
+node_modules/

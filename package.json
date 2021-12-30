@@ -1,0 +1,16 @@
+{
+  "name": "salesforce-telegram",
+  "version": "1.0.0",
+  "description": "enables you to send messages from Salesforce to Telegram using Platform events",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "baslu93",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "faye": "^1.4.0",
+    "nforce": "^1.12.2"
+  }
+}
